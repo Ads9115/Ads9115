@@ -42,8 +42,8 @@ Currently exploring OpenGL & Unreal Engine | Actively trying to devlop new skill
 
 ## 📫 Contact Me
 
-- Instagram: [@yourhandle](https://www.instagram.com/naqsh_en/)
-- Email: [your@email.com](adarshsen9115@gmail.com)
+- Instagram: https://www.instagram.com/naqsh_en/
+- Email: adarshsen9115@gmail.com
 
 ---
 
