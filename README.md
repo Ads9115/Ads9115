@@ -1,7 +1,7 @@
 #  Hi, I'm Adarsh 
 
 🎨 Graphic Designer (4+ yrs) | 🎮 Game Developer | 🖥️ Backend Dev (Python/Django)  
-Currently exploring OpenGL & Unreal Engine | Actively trying to devlop new skills and Enhance my Experience
+C ++ | OpenGL| Actively trying to devlop new skills and Enhance my Experience
 
 ---
 
