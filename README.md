@@ -48,5 +48,5 @@ Building simulations, engines, and creative projects from scratch.
 ## 🤝 Connect With Me
 <p>
   <a href="https://github.com/Ads9115"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adarsh-sen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/adarsh-sen](https://www.linkedin.com/in/adarsh-sen-b5748934a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
