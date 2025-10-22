@@ -32,16 +32,11 @@ Building simulations, engines, and creative projects from scratch.
 
 ---
 
-## 📂 Current Projects
-- 🌀 **3D Gravity Simulator** – Orbital mechanics & real-time physics in OpenGL + C++  
-- 🌿 **Grass Renderer** – Procedural generation + GPU instancing  
-
----
 
 ## 🌱 Learning Journey
 - Strengthening **graphics programming math** (matrices, transforms, physics).  
 - Experimenting with **real-time rendering techniques**.  
-- Expanding into **Unreal Engine** and creative workflows with **Blender + Adobe tools**.  
+- Expanding into **Unreal Engine and Unity** and creative workflows with **Blender + Adobe tools**.  
 
 ---
 
