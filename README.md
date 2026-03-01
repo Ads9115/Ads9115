@@ -4,7 +4,7 @@ Systems Builder
 Graphics Programming  
 Open Source  
 
-I build everything from scratch — rendering systems, shader pipelines, simulations, and engine-level experiments.
+I build everything from scratch : rendering systems, shader pipelines, simulations, and engine-level experiments.
 
 ---
 
