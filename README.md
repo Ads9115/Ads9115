@@ -11,13 +11,16 @@ I build everything from scratch : rendering systems, shader pipelines, simulatio
 ## Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://img.shields.io/badge/HLSL-Shader-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
 
 ## Graphics & Engines
 <p>
-  <img src="https://skillicons.dev/icons?i=opengl,unity,unreal,blender" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vulkan/vulkan-original.svg" width="48" height="48"/>
 </p>
 
 Shader Programming: GLSL • HLSL  
