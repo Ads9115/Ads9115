@@ -1,6 +1,6 @@
 # Adarsh (Ads9115)
 
-Systems builder. I work at the layer where math becomes pixels — rendering systems, shader pipelines, simulations, and engines built from scratch.
+Systems builder, rendering systems, shader pipelines, simulations, and engines built from scratch.
 
 ## Stack
 `C` · `C++` · `Python` · `HLSL` · `GLSL`
